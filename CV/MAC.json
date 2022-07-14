@@ -1,0 +1,629 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alfonso",
+      "surnames": "Martínez",
+      "title": "Software Architect with a background in Digital and Power Electronics",
+      "description": "When I told my father I wanted to study Engineering he got quite happy, as he thought an Engineer always dresses in shirt and tie, as I always dressed in T-shirts. I chose Electronic Engineering.\nI have worked in three different sectors during the last 14 years: IoT, FPGA, and Power Electronics; and all three had in common that I was writing code and wearing a T-shirt.",
+      "avatar": {
+        "alt": "1822593.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/63f51009-e05f-4f91-8860-35a4c768b2cb_1822593.jpg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://autoplanar.com"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/AlfVII"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alfonso-martinez-de-la-torre/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Fastest pipas-eater this side of the Manzanares",
+        "fact": "I am able to eat sunflower seeds (pipas) opening them directly with my hands, what makes me the fastest pipas-eater, and I will challenge anybody who doubts it to a pipas-eating contest."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "The Ones Who Walk Away from Omelas",
+        "type": "reading",
+        "URL": "https://www.goodreads.com/book/show/92625.The_Ones_Who_Walk_Away_from_Omelas",
+        "authors": [
+          {
+            "name": "Ursula K.",
+            "surnames": "Le Guin",
+            "title": "Author"
+          }
+        ],
+        "summary": "Go, search for it, and read it, I won't spoil it"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Frenetic",
+          "image": {
+            "alt": "logo frenetic.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/9f83e18a-d7a5-4930-beaf-5312ff5a6a49_logo-frenetic.svg"
+          },
+          "URL": "https://frenetic.ai"
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2018-01-01",
+            "finishDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "As CTO I was responsible for the design of the company's main product from its creation: Frenetic Online, an online tool for simulating, designing, and ordering magnetic components for power electronics applications, including:\n* Software architecture: Designing from scratch the architecture that enables the online suggestions and simulation, from the circuit requirements to mechanical pinout.\n* Physical modeling: Researching, implementing, and validating the physical behavior of the magnetic components, including thermal and electromagnetic modeling\n* Database architecture: Creation of a full scalable data architecture for storing any requirement, constructive parameter, or simulation result of the magnetic components.\n* Product Management: Processing and filtering the ideas and feedback from the CEO, Sales team, and customers, in order to produce a doable roadmap, balancing the long-term developments with short-term features.\n* Team Management: leading a variety of functional teams, QA, Web, Devops, Engine, and AI; making sure the final target is achieved through collaboration.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "MatPlotlib",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Numpy",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SciPy",
+                "type": "technology"
+              },
+              {
+                "name": "Selenium",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Swarm64",
+          "image": {
+            "alt": "logo swarm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/8946305a-c8a1-464c-a342-90d5fc9cbcdb_logo-swarm.png"
+          },
+          "URL": "https://swarm64.com"
+        },
+        "roles": [
+          {
+            "name": " Cofounder & Senior Hardware Engineer",
+            "startDate": "2012-06-01",
+            "finishDate": "2017-11-01",
+            "challenges": [
+              {
+                "description": "My work here varies in a wide range, from discussing and deciding the general structure of the hardware modules to actually writing the Verilog code that will translate into the final design, and from writing SystemC models and test-benches for testing those hardware modules to integrating everything and make sure that all works as well in reality.\n* Microprocessor architecture for in-memory databases and distributed analytics.\n* Hardware design and verification for FPGAs in SystemVerilog.\n* Advanced debugging with SignalTap.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PCI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ingenieria de Sistemas Intensivos en SW",
+          "image": {
+            "alt": "logo inetsis.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/fd4f6bd8-96eb-4d75-992d-358629c03ea1_logo-inetsis.jpg"
+          },
+          "URL": "https://es.wikipedia.org/wiki/Requiescat_in_pace"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero Electrónico",
+            "startDate": "2010-12-01",
+            "finishDate": "2012-05-01",
+            "challenges": [
+              {
+                "description": "I worked in sensor networks (IoT), integration, programming, and designing new platforms and systems, along with their testing.\nBetween some of those system there are a wireless system designed to give early warning of approaching trains to workers when they are in a work area close to track railways, various systems for power consumption monitoring, which orientate the building where they are installed to the idea of energetic efficiency; and networks systems for domotics, both industrial or domestic, and touristic or agricultural. In many of those systems we need to use platforms that did not exist in the market and that we need to design from the start, task that I had assigned, including their testing and final integration before been sold to the client."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Politécnica de Madrid - Centro de Electrónica Industrial",
+          "image": {
+            "alt": "logo cei.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/542b0807-b961-4f78-9d13-04300a5f6a5b_logo-cei.jpg"
+          },
+          "URL": "http://www.cei.upm.es"
+        },
+        "roles": [
+          {
+            "name": "Research Assistant",
+            "startDate": "2009-04-01",
+            "finishDate": "2010-11-01",
+            "challenges": [
+              {
+                "description": "During the last few years of my degree I was working as a research assistant with wireless sensor networks, PCBs design, low level programming and monitoring systems for power saving, skills that and the end I used to make my final project.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "AutoPlanar Magnetics",
+          "description": "AutoPlanar provides an online platform for designing the most tedious and most complex part of an Electric Vehicle electronics: planar magnetics.\nIt automatically creates a PCB magnetic transformer for power converters from a few instructions into a fully manufacturable design, reducing every iteration from tens of Engineer's hours to less than a minute.",
+          "URL": "https://autoplanar.com/",
+          "image": {
+            "alt": "logo autop2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/fea9704a-425d-4eeb-ae2f-286c21684c44_logo-autop2.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-07-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Los Decimos de Ildefonso",
+          "description": "My father is a collectionist of Spanish lottery tickets, mainly in two collections: all the numbers from 00000 to 99999, and one ticket from each official retailer (\"administración de loteria\") in Spain. He had his collection painfully registered on several Word and Excel files, so I decided to make him an online platform where he can track the missing ones, and add new ones with pictures from a webcam.",
+          "URL": "https://losdecimosdeildefonso.com",
+          "image": {
+            "alt": "logo decimos.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/bbe3b478-5cde-44a4-b71f-854f3ac497b3_logo-decimos.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "finishDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Nomo IoT",
+          "description": "After working some years in IoT, I decided to buld my own nodes and apply them to the measurement of water usage in the Spanish fields.\nI designed a compact system of PCB (roughly the size of a 2 euros coin), ordered them, assembled them and tested them satisfactory; including individual layers for communications, power, processing and sensing. \nI also designed my own 3D-printed enclosure, especially designed to let the wires for the sensors get out, while keeping the rain and dirt outside.",
+          "image": {
+            "alt": "logo nomo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/a4c82ae2-444d-4fbe-bec5-abceb8398cf0_logo-nomo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-06-01",
+            "finishDate": "2018-11-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "A Guide To Automating Layout Of Planar Magnetic Designs",
+          "description": "I wrote a guide for how to automatically create a layour for planar magnetics that was published in the well-known Power Electronics magazine How2Power",
+          "URL": "http://www.how2power.com/pdf_view.php?url=/newsletters/2204/H2PowerToday2204_FocusOnMagnetics.pdf",
+          "image": {
+            "alt": "logo how2power.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/2bc41c8e-1d92-4ee9-aadb-6ebb8dff3e2d_logo-how2power.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2022-04-01"
+      },
+      {
+        "details": {
+          "name": "RAP Session member: Challenges and potential of “AI based design” vs. “conventional design\"",
+          "description": "The APEC (Applied Power Electronics Conference) RAP Sessions feature several exciting and contentious topics. RAP Sessions allow for exciting dialogue among attendees and presenters and are presented live during the conference.\nThe past few years have seen a remarkable growth in artificial intelligence in many applications. Power electronics is no exception in that researchers are investigating new ways to model and design power electronics using some form of artificial intelligence. This panel is comprised of several thought leaders in the area of power electronics design – both utilizing AI techniques and without. They will discuss aspects of power electronics design that AI can improve or at least provide keener insight, and where traditional design methods remain superior or necessary. Come join us to open your mind to whether new approaches are worthy of your consideration in your next design. Hearty participation is welcome!",
+          "URL": "http://apec-conf.org/conference/sessions/rap/",
+          "image": {
+            "alt": "logo_new.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/def0d1dd-2757-4572-be6d-73d242b3e862_logo_new.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-03-01"
+      },
+      {
+        "details": {
+          "name": "[Webinar] A System Perspective for Magnetics Design - Frenetic & SIMBA",
+          "description": "In this video, Simba's team simulates a Dual Activity Bridge and then, its results are uploaded into Frenetic´s platform in order to design a magnetic for the simulated converter, which I presented",
+          "URL": "https://www.youtube.com/watch?v=Fa0N1PZoYZk",
+          "image": {
+            "alt": "logo simba.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/3e8b6c89-bf48-443d-b013-ce1f8b0fa789_logo-simba.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2021-12-01"
+      },
+      {
+        "details": {
+          "name": "Flyback Live Simulation & Sample Measurement - Frenetic & Omicron Lab",
+          "description": "Power electroncics webinar that I presented from Frenetic and Omicron Lab about a Flyback Live Simulation and Sample Measurement.",
+          "URL": "https://www.youtube.com/watch?v=WF635r0t_5s",
+          "image": {
+            "alt": "logo omicron.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/37a5d2fb-9277-4d52-a3bc-a08ce7abd486_logo-omicron.png"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2021-06-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "PHP Tutorial",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "W3School",
+          "description": "PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.\n\nPHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.",
+          "URL": "https://www.w3schools.com/php/",
+          "image": {
+            "alt": "logo w3school.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/435f171f-b575-42a3-aae7-cc497567843a_logo-w3school.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "HTML Tutorial",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "W3School",
+          "description": "HTML is the standard markup language for web pages. Use it to to structure the content on your own website.\n",
+          "URL": "https://www.w3schools.com/html/",
+          "image": {
+            "alt": "logo w3school.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/808f3106-b154-4307-85be-091bb2152797_logo-w3school.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "SystemVerilog for Verification Specialists",
+        "startDate": "2016-09-01",
+        "finishDate": "2016-09-01",
+        "institution": {
+          "name": "Doulos",
+          "description": "SystemVerilog (IEEE 1800™), the successor to the Verilog® hardware description language, has become the dominant language standard for functional verification. SystemVerilog significantly enhances the capabilities of Verilog in a number of areas, offering productivity improvements for RTL designers, assertions, and constrained random stimulus generation for verification engineers.\n\nSystemVerilog for Verification Specialists provides a 4-day training program to fulfil the requirements of verification engineers or those wishing to evaluate SystemVerilog's applicability for complex verification application. It is structured to enable engineers to develop their skills to utilise the full breadth of SystemVerilog features for verification. This includes how to exploit the potential of class-based verification and object oriented techniques using SystemVerilog, as well as application for standard test bench development and module-based verification.",
+          "URL": "https://www.doulos.com/training/soc-design-and-verification/systemverilog-uvm/systemverilog-for-verification-specialists/",
+          "image": {
+            "alt": "logo doulos.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/1c74e5bc-7d7a-4074-b40a-c729c20484bd_logo-doulos.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Designing with Intel Quartus Prime - Advanced",
+        "startDate": "2016-01-01",
+        "finishDate": "2016-01-01",
+        "institution": {
+          "name": "Doulos",
+          "description": "This intense and very practical training course covers all the essential concepts and techniques required to design Intel® FPGAs, including the use of the design, implementation, verification and debugging tools that are part of the Quartus Prime environment. Learn how to avoid common design problems, save time, boost efficiency and gain tips and insights from an experienced Intel designer and expert tutor. \n\nThe course is designed to meet the needs of all users, from those new to Intel Quartus Prime, to expert designers looking to maximise the potential of their Intel FPGA designs.",
+          "URL": "https://www.doulos.com/training/fpga-and-hardware-design/intel-altera/designing-with-intel-quartus-prime-advanced/",
+          "image": {
+            "alt": "logo doulos.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/12fd0e5b-f81b-4427-b45e-2ae4b05e6e1b_logo-doulos.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "VHDL Course",
+        "startDate": "2009-03-01",
+        "finishDate": "2009-03-01",
+        "institution": {
+          "name": "Centro de Electrónica Industrial - UPM",
+          "URL": "http://www.cei.upm.es",
+          "image": {
+            "alt": "logo cei.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/a700e501-d7cd-4be5-bc79-6f7e6e42548b_logo-cei.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master of Engineering (M.Eng.), Industrial Engineering",
+        "startDate": "2004-09-01",
+        "finishDate": "2010-09-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "Degree grade: 7.6/10Grade: 7.6/10\nMaster's thesis: grade 9.9/10\n\"TinyOS porting to 8051 microcontroller. Applications for digital transducers interfaces and measurement of electric power\"",
+          "URL": "https://www.industriales.upm.es",
+          "image": {
+            "alt": "logo upm.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/1d7b440a-a230-4b0f-9b75-536a5d7ee719_logo-upm.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "English Graduate",
+        "startDate": "1999-09-01",
+        "finishDate": "2004-06-01",
+        "institution": {
+          "name": "Escuela Oficial de Idiomas de Jaén",
+          "description": "Full degree in English in the Offical Language School of Spain, equivalent to a C2 level.",
+          "URL": "http://eoixauen.es",
+          "image": {
+            "alt": "logo eoi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/e8b9fc9d-6e79-4d8c-a320-073c99c6b75a_logo-eoi.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alfonso-martinez-de-la-torre/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Julia",
+          "type": "technology"
+        },
+        {
+          "name": "Pandas",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Excel",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft Access",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
