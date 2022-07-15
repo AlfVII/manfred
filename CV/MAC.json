@@ -177,6 +177,14 @@
             ],
             "competences": [
               {
+                "name": "FPGA Intel Stratix V",
+                "type": "hardware"
+              },
+              {
+                "name": "FPGA Intel Arria 10",
+                "type": "hardware"
+              },
+              {
                 "name": "Xilinx Vivado",
                 "type": "tool"
               },
@@ -185,7 +193,15 @@
                 "type": "technology"
               },
               {
-                "name": "SignalTap",
+                "name": "Signal Tap",
+                "type": "tool"
+              },
+              {
+                "name": "Verilator",
+                "type": "tool"
+              },
+              {
+                "name": "GTKWave",
                 "type": "tool"
               },
               {
