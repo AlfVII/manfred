@@ -595,6 +595,24 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "EM Modeling",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Electronics",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magnetics Design",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -799,10 +817,6 @@
       "preferredCompetences": [
         {
           "name": "C++",
-          "type": "technology"
-        },
-        {
-          "name": "FPGA",
           "type": "technology"
         },
         {
