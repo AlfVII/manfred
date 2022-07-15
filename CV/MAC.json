@@ -261,6 +261,10 @@
             ],
             "competences": [
               {
+                "name": "PCB design",
+                "type": "technology"
+              },
+              {
                 "name": "EagleCAD",
                 "type": "tool"
               },
