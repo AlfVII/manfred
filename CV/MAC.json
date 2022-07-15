@@ -177,58 +177,6 @@
             ],
             "competences": [
               {
-                "name": "FPGA Xilinx Virtex-7",
-                "type": "hardware"
-              },
-              {
-                "name": "FPGA Intel Stratix V",
-                "type": "hardware"
-              },
-              {
-                "name": "FPGA Intel Arria 10",
-                "type": "hardware"
-              },
-              {
-                "name": "Xilinx Vivado",
-                "type": "tool"
-              },
-              {
-                "name": "VHDL",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Linux kernel",
-                "type": "tool"
-              },
-              {
-                "name": "UVM",
-                "type": "technology"
-              },
-              {
-                "name": "Signal Tap",
-                "type": "tool"
-              },
-              {
-                "name": "Verilator",
-                "type": "tool"
-              },
-              {
-                "name": "GTKWave",
-                "type": "tool"
-              },
-              {
-                "name": "Intel Quartus II",
-                "type": "tool"
-              },
-              {
-                "name": "SystemVerilog",
-                "type": "technology"
-              },
-              {
                 "name": "C++",
                 "type": "technology"
               },
@@ -237,7 +185,7 @@
                 "type": "technology"
               },
               {
-                "name": "PCIe",
+                "name": "PCI",
                 "type": "technology"
               }
             ]
@@ -265,28 +213,8 @@
             ],
             "competences": [
               {
-                "name": "FreeRTOS",
-                "type": "technology"
-              },
-              {
-                "name": "TinyOS",
-                "type": "technology"
-              },
-              {
-                "name": "IoT",
-                "type": "technology"
-              },
-              {
                 "name": "C++",
                 "type": "technology"
-              },
-              {
-                "name": "EagleCAD",
-                "type": "tool"
-              },
-              {
-                "name": "OrCAD",
-                "type": "tool"
               }
             ]
           }
