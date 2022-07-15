@@ -177,6 +177,10 @@
             ],
             "competences": [
               {
+                "name": "FPGA Xilinx Virtex-7",
+                "type": "hardware"
+              },
+              {
                 "name": "FPGA Intel Stratix V",
                 "type": "hardware"
               },
