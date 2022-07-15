@@ -34,6 +34,10 @@
     ],
     "interestingFacts": [
       {
+        "topic": "",
+        "fact": "Proud father of Úrsula and husband of Noelia"
+      }
+      {
         "topic": "Fastest pipas-eater this side of the Manzanares",
         "fact": "I am able to eat sunflower seeds (pipas) opening them directly with my hands, what makes me the fastest pipas-eater, and I will challenge anybody who doubts it to a pipas-eating contest."
       }
@@ -97,9 +101,8 @@
                 "type": "tool"
               },
               {
-                "name": "Electromagnetism Modeling",
-                "type": "domain",
-                "description": "very electromagnetico"
+                "name": "EM Modeling",
+                "type": "domain"
               },
               {
                 "name": "Power Electronics",
@@ -178,6 +181,58 @@
             ],
             "competences": [
               {
+                "name": "FPGA Xilinx Virtex-7",
+                "type": "hardware"
+              },
+              {
+                "name": "FPGA Intel Stratix V",
+                "type": "hardware"
+              },
+              {
+                "name": "FPGA Intel Arria 10",
+                "type": "hardware"
+              },
+              {
+                "name": "Xilinx Vivado",
+                "type": "tool"
+              },
+              {
+                "name": "VHDL",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Linux kernel",
+                "type": "tool"
+              },
+              {
+                "name": "UVM",
+                "type": "technology"
+              },
+              {
+                "name": "Signal Tap",
+                "type": "tool"
+              },
+              {
+                "name": "Verilator",
+                "type": "tool"
+              },
+              {
+                "name": "GTKWave",
+                "type": "tool"
+              },
+              {
+                "name": "Intel Quartus II",
+                "type": "tool"
+              },
+              {
+                "name": "SystemVerilog",
+                "type": "technology"
+              },
+              {
                 "name": "C++",
                 "type": "technology"
               },
@@ -186,7 +241,7 @@
                 "type": "technology"
               },
               {
-                "name": "PCI",
+                "name": "PCIe",
                 "type": "technology"
               }
             ]
@@ -214,8 +269,36 @@
             ],
             "competences": [
               {
+                "name": "FreeRTOS",
+                "type": "technology"
+              },
+              {
+                "name": "TinyOS",
+                "type": "technology"
+              },
+              {
+                "name": "IoT",
+                "type": "technology"
+              },
+              {
                 "name": "C++",
                 "type": "technology"
+              },
+              {
+                "name": "PCB design",
+                "type": "technology"
+              },
+              {
+                "name": "PCB assembly",
+                "type": "hardware"
+              },
+              {
+                "name": "EagleCAD",
+                "type": "tool"
+              },
+              {
+                "name": "OrCAD",
+                "type": "tool"
               }
             ]
           }
@@ -242,7 +325,31 @@
             ],
             "competences": [
               {
+                "name": "IoT",
+                "type": "technology"
+              },
+              {
                 "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "OrCAD",
+                "type": "tool"
+              },
+              {
+                "name": "Keil µVision",
+                "type": "tool"
+              },
+              {
+                "name": "PCB design",
+                "type": "technology"
+              },
+              {
+                "name": "PCB assembly",
+                "type": "hardware"
+              },
+              {
+                "name": "Power Electronics",
                 "type": "technology"
               }
             ]
@@ -267,6 +374,26 @@
             "name": "Developer",
             "startDate": "2021-07-01",
             "competences": [
+              {
+                "name": "ElmerFEM",
+                "type": "tool"
+              },
+              {
+                "name": "FE Simulation",
+                "type": "technology"
+              },
+              {
+                "name": "KiCAD",
+                "type": "tool"
+              },
+              {
+                "name": "PCB design",
+                "type": "technology"
+              },
+              {
+                "name": "Magnetics Design",
+                "type": "technology"
+              },
               {
                 "name": "Bootstrap",
                 "type": "technology"
@@ -373,6 +500,30 @@
             "finishDate": "2018-11-01",
             "competences": [
               {
+                "name": "PCB design",
+                "type": "technology"
+              },
+              {
+                "name": "PCB assembly",
+                "type": "hardware"
+              },
+              {
+                "name": "EagleCAD",
+                "type": "tool"
+              },
+              {
+                "name": "OpenSCAD",
+                "type": "tool"
+              },
+              {
+                "name": "Mechanical Design",
+                "type": "technology"
+              },
+              {
+                "name": "FreeRTOS",
+                "type": "technology"
+              },
+              {
                 "name": "C++",
                 "type": "technology"
               }
@@ -446,6 +597,60 @@
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "SystemVerilog",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "FPGA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "KiCAD",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "PCB design",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansys Maxwell",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "EM Modeling",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Electronics",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magnetics Design",
+          "type": "domain"
+        }
+      },,
+      {
+        "skill": {
+          "name": "IoT",
+          "type": "domain"
+        }
+      },
       {
         "skill": {
           "name": "Python",
@@ -655,7 +860,11 @@
           "type": "technology"
         },
         {
-          "name": "Django",
+          "name": "FPGA",
+          "type": "technology"
+        },
+        {
+          "name": "SystemVerilog",
           "type": "technology"
         },
         {
@@ -664,10 +873,6 @@
         },
         {
           "name": "Go",
-          "type": "technology"
-        },
-        {
-          "name": "Julia",
           "type": "technology"
         },
         {
