@@ -177,10 +177,6 @@
             ],
             "competences": [
               {
-                "name": "FPGA Xilinx Virtex-7",
-                "type": "hardware"
-              },
-              {
                 "name": "FPGA Intel Stratix V",
                 "type": "hardware"
               },
@@ -191,6 +187,10 @@
               {
                 "name": "Xilinx Vivado",
                 "type": "tool"
+              },
+              {
+                "name": "VHDL",
+                "type": "technology"
               },
               {
                 "name": "Signal Tap",
