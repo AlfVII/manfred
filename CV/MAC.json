@@ -177,6 +177,10 @@
             ],
             "competences": [
               {
+                "name": "Linux kernel",
+                "type": "technology"
+              },
+              {
                 "name": "UVM",
                 "type": "technology"
               },
