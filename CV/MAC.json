@@ -98,8 +98,7 @@
               },
               {
                 "name": "EM Modeling",
-                "type": "domain",
-                "description": "very electromagnetico"
+                "type": "domain"
               },
               {
                 "name": "Power Electronics",
@@ -177,6 +176,10 @@
               }
             ],
             "competences": [
+              {
+                "name": "SystemVerilog",
+                "type": "technology"
+              },
               {
                 "name": "C++",
                 "type": "technology"
