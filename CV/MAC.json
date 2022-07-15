@@ -261,6 +261,22 @@
             ],
             "competences": [
               {
+                "name": "PCB design",
+                "type": "technology"
+              },
+              {
+                "name": "PCB assembly",
+                "type": "hardware"
+              },
+              {
+                "name": "EagleCAD",
+                "type": "tool"
+              },
+              {
+                "name": "OrCAD",
+                "type": "tool"
+              },
+              {
                 "name": "FreeRTOS",
                 "type": "technology"
               },
