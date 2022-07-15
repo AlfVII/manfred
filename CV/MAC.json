@@ -177,6 +177,10 @@
             ],
             "competences": [
               {
+                "name": "FPGA Xilinx Virtex-7",
+                "type": "hardware"
+              },
+              {
                 "name": "FPGA Intel Stratix V",
                 "type": "hardware"
               },
@@ -190,6 +194,18 @@
               },
               {
                 "name": "VHDL",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Linux kernel",
+                "type": "tool"
+              },
+              {
+                "name": "UVM",
                 "type": "technology"
               },
               {
@@ -221,7 +237,7 @@
                 "type": "technology"
               },
               {
-                "name": "PCI",
+                "name": "PCIe",
                 "type": "technology"
               }
             ]
