@@ -197,18 +197,6 @@
                 "type": "technology"
               },
               {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Linux kernel",
-                "type": "tool"
-              },
-              {
-                "name": "UVM",
-                "type": "technology"
-              },
-              {
                 "name": "Signal Tap",
                 "type": "tool"
               },
@@ -237,7 +225,7 @@
                 "type": "technology"
               },
               {
-                "name": "PCIe",
+                "name": "PCI",
                 "type": "technology"
               }
             ]
