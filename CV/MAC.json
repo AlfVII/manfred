@@ -595,6 +595,36 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "SystemVerilog",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "FPGA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "KiCAD",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "PCB design",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansys Maxwell",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
           "name": "EM Modeling",
           "type": "domain"
         }
