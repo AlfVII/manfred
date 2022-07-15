@@ -261,14 +261,6 @@
             ],
             "competences": [
               {
-                "name": "PCB design",
-                "type": "technology"
-              },
-              {
-                "name": "PCB assembly",
-                "type": "hardware"
-              },
-              {
                 "name": "EagleCAD",
                 "type": "tool"
               },
