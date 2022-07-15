@@ -317,6 +317,22 @@
             ],
             "competences": [
               {
+                "name": "OrCAD",
+                "type": "tool"
+              },
+              {
+                "name": "PCB Design",
+                "type": "technology"
+              },
+              {
+                "name": "PCB Assembly",
+                "type": "hardware"
+              },
+              {
+                "name": "Power Electronics",
+                "type": "technology"
+              },
+              {
                 "name": "C",
                 "type": "technology"
               }
