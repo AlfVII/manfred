@@ -94,11 +94,20 @@
               },
               {
                 "name": "Ansys Icepak",
-                "type": "technology"
+                "type": "tool"
               },
               {
-                "name": "Magnetic modelling",
-                "type": "technology"
+                "name": "Electromagnetism Modeling",
+                "type": "domain",
+                "description": "very electromagnetico"
+              },
+              {
+                "name": "Power Electronics",
+                "type": "domain"
+              },
+              {
+                "name": "Magnetics Design",
+                "type": "domain"
               },
               {
                 "name": "Flask",
