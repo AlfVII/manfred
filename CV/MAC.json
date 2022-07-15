@@ -802,11 +802,7 @@
           "type": "technology"
         },
         {
-          "name": "FPGA",
-          "type": "technology"
-        },
-        {
-          "name": "SystemVerilog",
+          "name": "Django",
           "type": "technology"
         },
         {
