@@ -177,6 +177,10 @@
             ],
             "competences": [
               {
+                "name": "UVM",
+                "type": "technology"
+              },
+              {
                 "name": "FPGA Xilinx Virtex-7",
                 "type": "hardware"
               },
