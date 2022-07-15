@@ -261,6 +261,18 @@
             ],
             "competences": [
               {
+                "name": "FreeRTOS",
+                "type": "technology"
+              },
+              {
+                "name": "TinyOS",
+                "type": "technology"
+              },
+              {
+                "name": "IoT",
+                "type": "technology"
+              },
+              {
                 "name": "C++",
                 "type": "technology"
               }
