@@ -367,6 +367,26 @@
             "startDate": "2021-07-01",
             "competences": [
               {
+                "name": "ElmerFEM",
+                "type": "tool"
+              },
+              {
+                "name": "FE Simulation",
+                "type": "technology"
+              },
+              {
+                "name": "KiCAD",
+                "type": "tool"
+              },
+              {
+                "name": "PCB Design",
+                "type": "technology"
+              },
+              {
+                "name": "Magnetics Design",
+                "type": "technology"
+              },
+              {
                 "name": "Bootstrap",
                 "type": "technology"
               },
