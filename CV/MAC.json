@@ -193,14 +193,6 @@
                 "type": "tool"
               },
               {
-                "name": "VHDL",
-                "type": "technology"
-              },
-              {
-                "name": "UVM",
-                "type": "technology"
-              },
-              {
                 "name": "Signal Tap",
                 "type": "tool"
               },
