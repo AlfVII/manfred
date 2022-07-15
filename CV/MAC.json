@@ -317,6 +317,10 @@
             ],
             "competences": [
               {
+                "name": "IoT",
+                "type": "technology"
+              },
+              {
                 "name": "Keil µVision",
                 "type": "tool"
               },
