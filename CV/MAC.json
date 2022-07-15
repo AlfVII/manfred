@@ -261,6 +261,10 @@
             ],
             "competences": [
               {
+                "name": "PCB Assembly",
+                "type": "technology"
+              },
+              {
                 "name": "PCB Design",
                 "type": "technology"
               },
