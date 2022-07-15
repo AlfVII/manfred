@@ -89,7 +89,15 @@
             ],
             "competences": [
               {
-                "name": "Ansys",
+                "name": "Ansys Maxwell",
+                "type": "tool"
+              },
+              {
+                "name": "Ansys Icepak",
+                "type": "technology"
+              },
+              {
+                "name": "Magnetic modelling",
                 "type": "technology"
               },
               {
