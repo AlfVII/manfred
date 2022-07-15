@@ -317,6 +317,10 @@
             ],
             "competences": [
               {
+                "name": "Keil µVision",
+                "type": "tool"
+              },
+              {
                 "name": "OrCAD",
                 "type": "tool"
               },
