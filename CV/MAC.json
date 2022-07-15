@@ -201,10 +201,6 @@
                 "type": "technology"
               },
               {
-                "name": "Linux kernel",
-                "type": "tool"
-              },
-              {
                 "name": "UVM",
                 "type": "technology"
               },
