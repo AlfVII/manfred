@@ -492,6 +492,30 @@
             "finishDate": "2018-11-01",
             "competences": [
               {
+                "name": "PCB Design",
+                "type": "technology"
+              },
+              {
+                "name": "PCB Assembly",
+                "type": "hardware"
+              },
+              {
+                "name": "EagleCAD",
+                "type": "tool"
+              },
+              {
+                "name": "OpenSCAD",
+                "type": "tool"
+              },
+              {
+                "name": "Mechanical Design",
+                "type": "technology"
+              },
+              {
+                "name": "FreeRTOS",
+                "type": "technology"
+              },
+              {
                 "name": "C++",
                 "type": "technology"
               }
