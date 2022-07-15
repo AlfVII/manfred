@@ -89,6 +89,10 @@
             ],
             "competences": [
               {
+                "name": "Ansys",
+                "type": "technology"
+              },
+              {
                 "name": "Flask",
                 "type": "technology"
               },
