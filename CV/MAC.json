@@ -177,6 +177,22 @@
             ],
             "competences": [
               {
+                "name": "Xilinx Vivado",
+                "type": "tool"
+              },
+              {
+                "name": "VHDL",
+                "type": "technology"
+              },
+              {
+                "name": "SignalTap",
+                "type": "tool"
+              },
+              {
+                "name": "Intel Quartus II",
+                "type": "tool"
+              },
+              {
                 "name": "SystemVerilog",
                 "type": "technology"
               },
