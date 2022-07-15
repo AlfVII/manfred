@@ -98,7 +98,8 @@
               },
               {
                 "name": "EM Modeling",
-                "type": "domain"
+                "type": "domain",
+                "description": "very electromagnetico"
               },
               {
                 "name": "Power Electronics",
