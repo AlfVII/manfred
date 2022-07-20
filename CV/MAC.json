@@ -12,7 +12,7 @@
       "description": "When I told my father I wanted to study Engineering he got quite happy, as he thought an Engineer always dresses in shirt and tie, as I always dressed in T-shirts. I chose Electronic Engineering.\nI have worked in three different sectors during the last 14 years: IoT, FPGA, and Power Electronics; and all three had in common that I was writing code and wearing a T-shirt.",
       "avatar": {
         "alt": "perfil small.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/9392be02-225c-4690-b752-78506af4a171_a9dbeed0-860a-4d33-b.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/a9dbeed0-860a-4d33-b599-9c52d80da724_08c4aa7f-5a8d-4397-8.png"
       },
       "location": {
         "notes": "Madrid"
@@ -73,7 +73,7 @@
           "name": "Frenetic",
           "image": {
             "alt": "logo frenetic.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/b9709dd5-0b35-4480-8764-14dd1de11556_28a1d687-a4a1-45aa-a.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/28a1d687-a4a1-45aa-a4a0-245ad102d5cf_9f83e18a-d7a5-4930-b.svg"
           },
           "URL": "https://frenetic.ai"
         },
@@ -161,7 +161,7 @@
           "name": "Swarm64",
           "image": {
             "alt": "logo swarm.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/7fbb0342-8179-4ff1-a793-7dfce703a3f0_e4e3a536-9876-4828-b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/e4e3a536-9876-4828-b875-612da0bfe925_8946305a-c8a1-464c-a.png"
           },
           "URL": "https://swarm64.com"
         },
@@ -245,7 +245,7 @@
           "name": "Ingenieria de Sistemas Intensivos en SW",
           "image": {
             "alt": "logo inetsis.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/d9ab2067-fd2d-4f33-b667-e57ab35ec4d4_f9340931-b870-410d-b.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/f9340931-b870-410d-bf73-6cb5149dc2e3_fd4f6bd8-96eb-4d75-9.jpg"
           },
           "URL": "https://es.wikipedia.org/wiki/Requiescat_in_pace"
         },
@@ -301,7 +301,7 @@
           "name": "Universidad Politécnica de Madrid - Centro de Electrónica Industrial",
           "image": {
             "alt": "logo cei.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/f0b9e61f-9a3a-4220-9eca-c296151b7c64_0e434a13-3193-42d4-9.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/0e434a13-3193-42d4-9b52-bc39208ed5a5_542b0807-b961-4f78-9.jpg"
           },
           "URL": "http://www.cei.upm.es"
         },
@@ -357,7 +357,7 @@
           "URL": "https://autoplanar.com/",
           "image": {
             "alt": "logo autop2.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/50fc07ae-8a72-4fa3-9f3e-591704457218_06ec021d-9659-46d8-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/06ec021d-9659-46d8-929d-644004989e6a_fea9704a-425d-4eeb-a.png"
           }
         },
         "type": "sideProject",
@@ -433,7 +433,7 @@
           "URL": "https://losdecimosdeildefonso.com",
           "image": {
             "alt": "logo decimos.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/6f53bf80-3ccd-45ea-b7b7-a91e59c5dbf1_13abaab0-5e95-4bcd-b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/13abaab0-5e95-4bcd-b72c-6e2d6f5f010d_bbe3b478-5cde-44a4-b.png"
           }
         },
         "type": "openSource",
@@ -481,7 +481,7 @@
           "description": "After working some years in IoT, I decided to buld my own nodes and apply them to the measurement of water usage in the Spanish fields.\nI designed a compact system of PCB (roughly the size of a 2 euros coin), ordered them, assembled them and tested them satisfactory; including individual layers for communications, power, processing and sensing. \nI also designed my own 3D-printed enclosure, especially designed to let the wires for the sensors get out, while keeping the rain and dirt outside.",
           "image": {
             "alt": "logo nomo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/ad242327-527c-45f2-9cce-f4f38174e8e3_cff36ecd-a470-4e98-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/cff36ecd-a470-4e98-96d7-15c2a305dcef_a4c82ae2-444d-4fbe-b.png"
           }
         },
         "type": "sideProject",
@@ -532,7 +532,7 @@
           "URL": "http://www.how2power.com/pdf_view.php?url=/newsletters/2204/H2PowerToday2204_FocusOnMagnetics.pdf",
           "image": {
             "alt": "logo how2power.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/2d7abafe-b8f8-494a-ac3e-03d2147e66f8_7b63d84e-49bc-4f03-8.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/7b63d84e-49bc-4f03-806b-cdc9850dbcad_2bc41c8e-1d92-4ee9-a.jpg"
           }
         },
         "type": "post",
@@ -545,7 +545,7 @@
           "URL": "http://apec-conf.org/conference/sessions/rap/",
           "image": {
             "alt": "logo_new.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/068e089b-41c7-4dfc-bb58-d0a7b9bb2f64_f3a56359-3888-4b49-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/f3a56359-3888-4b49-a090-c225e13b0a80_def0d1dd-2757-4572-b.png"
           }
         },
         "type": "talk",
@@ -558,7 +558,7 @@
           "URL": "https://www.youtube.com/watch?v=Fa0N1PZoYZk",
           "image": {
             "alt": "logo simba.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/b2376471-8743-48a4-b6af-b07d911451cd_81adaf2a-a5d4-433d-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/81adaf2a-a5d4-433d-a5a7-12044a3e30e7_3e8b6c89-bf48-443d-b.png"
           }
         },
         "type": "talk",
@@ -571,7 +571,7 @@
           "URL": "https://www.youtube.com/watch?v=WF635r0t_5s",
           "image": {
             "alt": "logo omicron.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/06a92552-ca8e-456c-a97f-e205a252f83b_47e46af8-7aea-4282-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/47e46af8-7aea-4282-8633-762ad2986033_37a5d2fb-9277-4d52-a.png"
           }
         },
         "type": "achievement",
@@ -582,13 +582,69 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "SystemVerilog",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "FPGA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "KiCAD",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "PCB design",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansys Maxwell",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "EM Modeling",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Electronics",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magnetics Design",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "IoT",
+          "type": "domain"
+        }
+      },
       {
         "skill": {
           "name": "Python",
@@ -669,7 +725,7 @@
           "URL": "https://www.w3schools.com/html/",
           "image": {
             "alt": "logo w3school.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/98f71128-ea45-4a25-9868-4eaf8b4841db_70ad79d5-9924-4b85-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/70ad79d5-9924-4b85-8367-45e7c2588b24_808f3106-b154-4307-8.png"
           }
         },
         "linkedCompetences": [
@@ -691,7 +747,7 @@
           "URL": "https://www.w3schools.com/php/",
           "image": {
             "alt": "logo w3school.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/bc1c9433-2cff-4d40-9a1e-9333851681c2_882e0720-06eb-4491-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/882e0720-06eb-4491-ac22-4bba29d36a38_435f171f-b575-42a3-a.png"
           }
         },
         "linkedCompetences": [
@@ -713,7 +769,7 @@
           "URL": "https://www.doulos.com/training/soc-design-and-verification/systemverilog-uvm/systemverilog-for-verification-specialists/",
           "image": {
             "alt": "logo doulos.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/49ca1e17-95a6-4a2c-82b4-7232bcb7dd53_3959d5fb-042e-4538-9.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/3959d5fb-042e-4538-9582-03f8a22b8df6_1c74e5bc-7d7a-4074-b.jpg"
           }
         }
       },
@@ -729,7 +785,7 @@
           "URL": "https://www.doulos.com/training/fpga-and-hardware-design/intel-altera/designing-with-intel-quartus-prime-advanced/",
           "image": {
             "alt": "logo doulos.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/842bc7fc-7fdb-404b-8b8c-d613f4c724e3_cb460569-4fd2-42b9-9.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/cb460569-4fd2-42b9-9e83-b5e219da5cb4_12fd0e5b-f81b-4427-b.jpg"
           }
         }
       },
@@ -744,7 +800,7 @@
           "URL": "http://www.cei.upm.es",
           "image": {
             "alt": "logo cei.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/0fa2157c-9f6b-4b5f-87cc-16f89dd44eb9_1e8e73c5-e4bf-4b69-8.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/1e8e73c5-e4bf-4b69-8a8b-a196f05c0784_a700e501-d7cd-4be5-b.jpg"
           }
         }
       },
@@ -760,7 +816,7 @@
           "URL": "https://www.industriales.upm.es",
           "image": {
             "alt": "logo upm.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/dfb7ae00-039f-4504-9718-c68ebb5d8f0e_5531713f-8012-48d9-8.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/5531713f-8012-48d9-8a73-e2ee9ca53642_1d7b440a-a230-4b0f-9.jpg"
           }
         }
       },
@@ -776,7 +832,7 @@
           "URL": "http://eoixauen.es",
           "image": {
             "alt": "logo eoi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/758484fb-dde7-42f8-9606-a22b854e914e_0484c59f-6ee3-46fc-b.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/15/0484c59f-6ee3-46fc-bec0-257beee96159_e8b9fc9d-6e79-4d8c-a.jpg"
           }
         }
       }
@@ -792,8 +848,23 @@
       ]
     },
     "preferences": {
+      "preferredRoles":[
+        "Full-stack Developer",
+        "Hardware Engineer",
+        "Research Developer",
+        "Software Architect",
+        "Tech Lead"
+      ],
       "preferredCompetences": [
         {
+          "name": "FPGA",
+          "type": "technology"
+        },
+        {
+          "name": "SystemVerilog",
+          "type": "technology"
+        },
+        { 
           "name": "C++",
           "type": "technology"
         },
