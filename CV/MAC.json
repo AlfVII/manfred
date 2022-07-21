@@ -585,6 +585,60 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "SystemVerilog",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "FPGA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "KiCAD",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "PCB design",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansys Maxwell",
+          "type": "tool"
+        }
+      },
+      {
+        "skill": {
+          "name": "EM Modeling",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Electronics",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magnetics Design",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
+          "name": "IoT",
+          "type": "domain"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -786,8 +840,23 @@
       ]
     },
     "preferences": {
+      "preferredRoles":[
+        "Full-stack Developer",
+        "Hardware Engineer",
+        "Research Developer",
+        "Software Architect",
+        "Tech Lead"
+      ],
       "preferredCompetences": [
         {
+          "name": "FPGA",
+          "type": "technology"
+        },
+        {
+          "name": "SystemVerilog",
+          "type": "technology"
+        },
+        { 
           "name": "C++",
           "type": "technology"
         },
