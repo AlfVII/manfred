@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -59,13 +58,46 @@
             "surnames": "Öyster Cult",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Tinybird",
+          "image": {
+            "alt": "1557817797235.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/27/806d44d1-9111-46d1-b740-ab41017fdbfc_1557817797235.jpeg"
+          },
+          "URL": "https://www.tinybird.co"
+        },
+        "roles": [
+          {
+            "name": "C++ Engineer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "CMake",
+                "type": "technology"
+              },
+              {
+                "name": "ClickHouse",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Frenetic",
@@ -580,16 +612,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Native or bilingual proficiency"
+        "name": "English"
       },
       {
-        "name": "German",
-        "level": "Limited working proficiency"
+        "name": "German"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -799,7 +828,6 @@
         "finishDate": "2009-03-01",
         "institution": {
           "name": "Centro de Electrónica Industrial - UPM",
-          "description": "",
           "URL": "http://www.cei.upm.es",
           "image": {
             "alt": "logo cei.jpg",
@@ -895,7 +923,6 @@
         "Software Architect",
         "Tech Lead"
       ]
-    },
-    "status": "notAvailable"
+    }
   }
 }
