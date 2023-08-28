@@ -11,42 +11,29 @@
       "title": "Software Architect with a background in Digital and Power Electronics",
       "description": "When I told my father I wanted to study Engineering he got quite happy, as he thought an Engineer always dresses in shirt and tie, as I always dressed in T-shirts. I chose Electronic Engineering. I have worked in three different sectors during the last 14 years: IoT, FPGA, and Power Electronics; and all three had in common that I was writing code and wearing a T-shirt. I am looking for a Software project where I can put to use and expand my knowledge of Digital and Power Electronics.",
       "avatar": {
-        "alt": "perfil small.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/be159f32-8879-48e5-933c-dee6b8818277_87c21849-c11e-4197-b.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/be159f32-8879-48e5-933c-dee6b8818277_87c21849-c11e-4197-b.png",
+        "alt": "perfil small.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://autoplanar.com"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/AlfVII"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/alfonso-martinez-de-la-torre/"
-      }
-    ],
     "recommendations": [
       {
         "title": "The Ones Who Walk Away from Omelas",
         "type": "reading",
         "URL": "https://www.goodreads.com/book/show/92625.The_Ones_Who_Walk_Away_from_Omelas",
+        "summary": "Go, search for it, and read it, I won't spoil it",
         "authors": [
           {
             "name": "Ursula K.",
             "surnames": "Le Guin",
             "title": "Author"
           }
-        ],
-        "summary": "Go, search for it, and read it, I won't spoil it"
+        ]
       },
       {
         "title": "Veteran of the Psychic Wars",
@@ -60,16 +47,56 @@
           }
         ]
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://autoplanar.com"
+      }
     ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
+          "name": "Würth Elektronik ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/28/d3cdbd29-8540-4d91-a755-7c38aaa3647b_mgoudmogpen7dmbqbfng.png",
+            "alt": "mgoudmogpen7dmbqbfng.png"
+          },
+          "URL": "Https://we-online.com"
+        },
+        "roles": [
+          {
+            "name": "Power Electronics Modeling Specialist ",
+            "startDate": "2023-06-01",
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Tinybird",
           "image": {
-            "alt": "1557817797235.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/27/806d44d1-9111-46d1-b740-ab41017fdbfc_1557817797235.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/27/806d44d1-9111-46d1-b740-ab41017fdbfc_1557817797235.jpeg",
+            "alt": "1557817797235.jpeg"
           },
           "URL": "https://www.tinybird.co"
         },
@@ -102,8 +129,8 @@
         "organization": {
           "name": "Frenetic",
           "image": {
-            "alt": "logo frenetic.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/bcea8fb1-0f68-4792-a902-80214b3e598b_0a4bafdf-74df-4a62-b.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/bcea8fb1-0f68-4792-a902-80214b3e598b_0a4bafdf-74df-4a62-b.svg",
+            "alt": "logo frenetic.svg"
           },
           "URL": "https://frenetic.ai"
         },
@@ -190,8 +217,8 @@
         "organization": {
           "name": "Swarm64",
           "image": {
-            "alt": "logo swarm.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/44a9051e-14b1-427d-b1cc-85ba0f7a76d9_816ec6b1-4339-439f-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/44a9051e-14b1-427d-b1cc-85ba0f7a76d9_816ec6b1-4339-439f-9.png",
+            "alt": "logo swarm.png"
           },
           "URL": "https://swarm64.com"
         },
@@ -274,8 +301,8 @@
         "organization": {
           "name": "Ingenieria de Sistemas Intensivos en SW",
           "image": {
-            "alt": "logo inetsis.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/7b8dabab-e6cc-4ce3-ad4b-f2890ce7795a_d57a1f8e-28f2-4948-8.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/7b8dabab-e6cc-4ce3-ad4b-f2890ce7795a_d57a1f8e-28f2-4948-8.jpg",
+            "alt": "logo inetsis.jpg"
           },
           "URL": "https://es.wikipedia.org/wiki/Requiescat_in_pace"
         },
@@ -330,8 +357,8 @@
         "organization": {
           "name": "Universidad Politécnica de Madrid - Centro de Electrónica Industrial",
           "image": {
-            "alt": "logo cei.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/a7ba43ba-f7b2-4e82-b39a-2b5631770937_dd028138-e2bb-42bc-9.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/a7ba43ba-f7b2-4e82-b39a-2b5631770937_dd028138-e2bb-42bc-9.jpg",
+            "alt": "logo cei.jpg"
           },
           "URL": "http://www.cei.upm.es"
         },
@@ -382,12 +409,108 @@
     "projects": [
       {
         "details": {
+          "name": "OpenMagnetics",
+          "description": "Open Magnetics (OM) is a set of online tools for designing and simulating magnetics components, based on public scientific research and knowledge, stemming from the idea that all scientific knowledge is a fundamental right and should be accessible to the whole human race.\n\nOpenMagnetics is fully Open Source, which means that any code used in the models or calculations is available to the community, all data about shapes, materials, wires, stocks or properties will be downloadable. Any information about models, electromagnetism theory or design procedure will be there. And most importantly, anybody can contribute.",
+          "URL": "https://openmagnetics.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/16/c51367ee-afe9-4020-88aa-d461ef1d48f6_logo.svg",
+            "alt": "logo.svg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Nomo IoT",
+          "description": "After working some years in IoT, I decided to buld my own nodes and apply them to the measurement of water usage in the Spanish fields.\nI designed a compact system of PCB (roughly the size of a 2 euros coin), ordered them, assembled them and tested them satisfactory; including individual layers for communications, power, processing and sensing. \nI also designed my own 3D-printed enclosure, especially designed to let the wires for the sensors get out, while keeping the rain and dirt outside.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/480f3378-d383-4d92-bb5e-f34c47910830_7409e98e-5a6d-44d8-8.png",
+            "alt": "logo nomo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-06-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "EagleCAD",
+                "type": "technology"
+              },
+              {
+                "name": "FreeRTOS",
+                "type": "technology"
+              },
+              {
+                "name": "Mechanical Design",
+                "type": "technology"
+              },
+              {
+                "name": "OpenSCAD",
+                "type": "technology"
+              },
+              {
+                "name": "PCB assembly",
+                "type": "technology"
+              },
+              {
+                "name": "PCB design",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2018-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "AutoPlanar Magnetics",
           "description": "AutoPlanar provides an online platform for designing the most tedious and most complex part of an Electric Vehicle electronics: planar magnetics.\nIt automatically creates a PCB magnetic transformer for power converters from a few instructions into a fully manufacturable design, reducing every iteration from tens of Engineer's hours to less than a minute.",
           "URL": "https://autoplanar.com/",
           "image": {
-            "alt": "logo autop2.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/3b55f0b2-9807-478d-a96c-4bd6b9b7a0b3_6a8ccfd1-79d6-4f97-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/3b55f0b2-9807-478d-a96c-4bd6b9b7a0b3_6a8ccfd1-79d6-4f97-a.png",
+            "alt": "logo autop2.png"
           }
         },
         "type": "sideProject",
@@ -462,8 +585,8 @@
           "description": "My father is a collectionist of Spanish lottery tickets, mainly in two collections: all the numbers from 00000 to 99999, and one ticket from each official retailer (\"administración de loteria\") in Spain. He had his collection painfully registered on several Word and Excel files, so I decided to make him an online platform where he can track the missing ones, and add new ones with pictures from a webcam.",
           "URL": "https://losdecimosdeildefonso.com",
           "image": {
-            "alt": "logo decimos.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/e56af9a1-6e78-4edc-83aa-0385175ab68a_66fa345f-f3d2-457f-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/e56af9a1-6e78-4edc-83aa-0385175ab68a_66fa345f-f3d2-457f-a.png",
+            "alt": "logo decimos.png"
           }
         },
         "type": "openSource",
@@ -471,7 +594,6 @@
           {
             "name": "Developer",
             "startDate": "2021-11-01",
-            "finishDate": "2022-01-01",
             "competences": [
               {
                 "name": "CSS",
@@ -501,55 +623,8 @@
                 "name": "jQuery",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Nomo IoT",
-          "description": "After working some years in IoT, I decided to buld my own nodes and apply them to the measurement of water usage in the Spanish fields.\nI designed a compact system of PCB (roughly the size of a 2 euros coin), ordered them, assembled them and tested them satisfactory; including individual layers for communications, power, processing and sensing. \nI also designed my own 3D-printed enclosure, especially designed to let the wires for the sensors get out, while keeping the rain and dirt outside.",
-          "image": {
-            "alt": "logo nomo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/480f3378-d383-4d92-bb5e-f34c47910830_7409e98e-5a6d-44d8-8.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-06-01",
-            "finishDate": "2018-11-01",
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "EagleCAD",
-                "type": "technology"
-              },
-              {
-                "name": "FreeRTOS",
-                "type": "technology"
-              },
-              {
-                "name": "Mechanical Design",
-                "type": "technology"
-              },
-              {
-                "name": "OpenSCAD",
-                "type": "technology"
-              },
-              {
-                "name": "PCB assembly",
-                "type": "technology"
-              },
-              {
-                "name": "PCB design",
-                "type": "technology"
-              }
-            ]
+            ],
+            "finishDate": "2022-01-01"
           }
         ]
       }
@@ -561,8 +636,8 @@
           "description": "I wrote a guide for how to automatically create a layour for planar magnetics that was published in the well-known Power Electronics magazine How2Power",
           "URL": "http://www.how2power.com/pdf_view.php?url=/newsletters/2204/H2PowerToday2204_FocusOnMagnetics.pdf",
           "image": {
-            "alt": "logo how2power.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/ec85b050-3692-44f0-a4da-9aee88f296ec_72df67bf-68dc-4f65-a.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/ec85b050-3692-44f0-a4da-9aee88f296ec_72df67bf-68dc-4f65-a.jpg",
+            "alt": "logo how2power.jpg"
           }
         },
         "type": "post",
@@ -574,8 +649,8 @@
           "description": "The APEC (Applied Power Electronics Conference) RAP Sessions feature several exciting and contentious topics. RAP Sessions allow for exciting dialogue among attendees and presenters and are presented live during the conference.\nThe past few years have seen a remarkable growth in artificial intelligence in many applications. Power electronics is no exception in that researchers are investigating new ways to model and design power electronics using some form of artificial intelligence. This panel is comprised of several thought leaders in the area of power electronics design – both utilizing AI techniques and without. They will discuss aspects of power electronics design that AI can improve or at least provide keener insight, and where traditional design methods remain superior or necessary. Come join us to open your mind to whether new approaches are worthy of your consideration in your next design. Hearty participation is welcome!",
           "URL": "http://apec-conf.org/conference/sessions/rap/",
           "image": {
-            "alt": "logo_new.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/f05ea229-9ac0-4b73-9ca3-af36e9beaacd_8ae449e4-a173-4149-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/f05ea229-9ac0-4b73-9ca3-af36e9beaacd_8ae449e4-a173-4149-8.png",
+            "alt": "logo_new.png"
           }
         },
         "type": "talk",
@@ -587,8 +662,8 @@
           "description": "In this video, Simba's team simulates a Dual Activity Bridge and then, its results are uploaded into Frenetic´s platform in order to design a magnetic for the simulated converter, which I presented",
           "URL": "https://www.youtube.com/watch?v=Fa0N1PZoYZk",
           "image": {
-            "alt": "logo simba.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/fd12c8aa-7b59-46df-970d-ee3fb2078b34_1806a778-8a16-46ba-b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/fd12c8aa-7b59-46df-970d-ee3fb2078b34_1806a778-8a16-46ba-b.png",
+            "alt": "logo simba.png"
           }
         },
         "type": "talk",
@@ -600,8 +675,8 @@
           "description": "Power electroncics webinar that I presented from Frenetic and Omicron Lab about a Flyback Live Simulation and Sample Measurement.",
           "URL": "https://www.youtube.com/watch?v=WF635r0t_5s",
           "image": {
-            "alt": "logo omicron.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/72513ce8-e0ce-4a84-9538-3497fb1ef83b_13beacb4-3fa1-4fb7-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/72513ce8-e0ce-4a84-9538-3497fb1ef83b_13beacb4-3fa1-4fb7-8.png",
+            "alt": "logo omicron.png"
           }
         },
         "type": "achievement",
@@ -612,31 +687,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "DE",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "German"
+        "name": "EN",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Flask",
+          "name": "Ansys Maxwell",
           "type": "technology"
         }
       },
@@ -648,13 +714,13 @@
       },
       {
         "skill": {
-          "name": "Pandas",
+          "name": "EM Modeling",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Linux",
+          "name": "Flask",
           "type": "technology"
         }
       },
@@ -666,7 +732,13 @@
       },
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magnetics Design",
           "type": "technology"
         }
       },
@@ -679,6 +751,42 @@
       {
         "skill": {
           "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PCB design",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Electronics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -702,63 +810,65 @@
       },
       {
         "skill": {
-          "name": "kicad",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PCB design",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ansys Maxwell",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "EM Modeling",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Electronics",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Magnetics Design",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "iot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "kicad",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Designing with Intel Quartus Prime - Advanced",
+        "startDate": "2016-01-01",
+        "institution": {
+          "name": "Doulos",
+          "description": "This intense and very practical training course covers all the essential concepts and techniques required to design Intel® FPGAs, including the use of the design, implementation, verification and debugging tools that are part of the Quartus Prime environment. Learn how to avoid common design problems, save time, boost efficiency and gain tips and insights from an experienced Intel designer and expert tutor. \n\nThe course is designed to meet the needs of all users, from those new to Intel Quartus Prime, to expert designers looking to maximise the potential of their Intel FPGA designs.",
+          "URL": "https://www.doulos.com/training/fpga-and-hardware-design/intel-altera/designing-with-intel-quartus-prime-advanced/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/6eaa7d68-0500-4a8f-9298-7d2e97ae8b6b_d174b513-9e9c-4a65-b.jpg",
+            "alt": "logo doulos.jpg"
+          }
+        },
+        "finishDate": "2016-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "English Graduate",
+        "startDate": "1999-09-01",
+        "institution": {
+          "name": "Escuela Oficial de Idiomas de Jaén",
+          "description": "Full degree in English in the Offical Language School of Spain, equivalent to a C2 level.",
+          "URL": "http://eoixauen.es",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/1fa39cb9-c689-4489-a902-4ac2c7309844_816e584a-6179-4621-b.jpg",
+            "alt": "logo eoi.jpg"
+          }
+        },
+        "finishDate": "2004-06-01"
+      },
+      {
         "studyType": "selfTraining",
         "degreeAchieved": true,
         "name": "HTML Tutorial",
         "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
         "institution": {
           "name": "W3School",
           "description": "HTML is the standard markup language for web pages. Use it to to structure the content on your own website.\n",
           "URL": "https://www.w3schools.com/html/",
           "image": {
-            "alt": "logo w3school.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/b6cfda37-84ae-48f3-b41e-97d0b1f799a9_778870bb-d1ae-457b-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/b6cfda37-84ae-48f3-b41e-97d0b1f799a9_778870bb-d1ae-457b-9.png",
+            "alt": "logo w3school.png"
           }
         },
+        "finishDate": "2021-09-01",
         "linkedCompetences": [
           {
             "name": "HTML",
@@ -767,20 +877,36 @@
         ]
       },
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master of Engineering (M.Eng.), Industrial Engineering",
+        "startDate": "2004-09-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "Degree grade: 7.6/10Grade: 7.6/10\nMaster's thesis: grade 9.9/10\n\"TinyOS porting to 8051 microcontroller. Applications for digital transducers interfaces and measurement of electric power\"",
+          "URL": "https://www.industriales.upm.es",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/55ba9b35-d54e-4c9b-b697-d8d68811e4b2_cde19f41-dc02-41ee-8.jpg",
+            "alt": "logo upm.jpg"
+          }
+        },
+        "finishDate": "2010-09-01"
+      },
+      {
         "studyType": "selfTraining",
         "degreeAchieved": true,
         "name": "PHP Tutorial",
         "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
         "institution": {
           "name": "W3School",
           "description": "PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.\n\nPHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.",
           "URL": "https://www.w3schools.com/php/",
           "image": {
-            "alt": "logo w3school.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/501de7ff-8ba9-43ec-94b7-892b4a478f2d_289549c2-5107-4918-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/501de7ff-8ba9-43ec-94b7-892b4a478f2d_289549c2-5107-4918-9.png",
+            "alt": "logo w3school.png"
           }
         },
+        "finishDate": "2021-09-01",
         "linkedCompetences": [
           {
             "name": "PHP",
@@ -793,78 +919,50 @@
         "degreeAchieved": true,
         "name": "SystemVerilog for Verification Specialists",
         "startDate": "2016-09-01",
-        "finishDate": "2016-09-01",
         "institution": {
           "name": "Doulos",
           "description": "SystemVerilog (IEEE 1800™), the successor to the Verilog® hardware description language, has become the dominant language standard for functional verification. SystemVerilog significantly enhances the capabilities of Verilog in a number of areas, offering productivity improvements for RTL designers, assertions, and constrained random stimulus generation for verification engineers.\n\nSystemVerilog for Verification Specialists provides a 4-day training program to fulfil the requirements of verification engineers or those wishing to evaluate SystemVerilog's applicability for complex verification application. It is structured to enable engineers to develop their skills to utilise the full breadth of SystemVerilog features for verification. This includes how to exploit the potential of class-based verification and object oriented techniques using SystemVerilog, as well as application for standard test bench development and module-based verification.",
           "URL": "https://www.doulos.com/training/soc-design-and-verification/systemverilog-uvm/systemverilog-for-verification-specialists/",
           "image": {
-            "alt": "logo doulos.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/6d928711-1bd9-452f-ab78-9bc765753875_1e1ec1b5-2fa3-4954-8.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/6d928711-1bd9-452f-ab78-9bc765753875_1e1ec1b5-2fa3-4954-8.jpg",
+            "alt": "logo doulos.jpg"
           }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Designing with Intel Quartus Prime - Advanced",
-        "startDate": "2016-01-01",
-        "finishDate": "2016-01-01",
-        "institution": {
-          "name": "Doulos",
-          "description": "This intense and very practical training course covers all the essential concepts and techniques required to design Intel® FPGAs, including the use of the design, implementation, verification and debugging tools that are part of the Quartus Prime environment. Learn how to avoid common design problems, save time, boost efficiency and gain tips and insights from an experienced Intel designer and expert tutor. \n\nThe course is designed to meet the needs of all users, from those new to Intel Quartus Prime, to expert designers looking to maximise the potential of their Intel FPGA designs.",
-          "URL": "https://www.doulos.com/training/fpga-and-hardware-design/intel-altera/designing-with-intel-quartus-prime-advanced/",
-          "image": {
-            "alt": "logo doulos.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/6eaa7d68-0500-4a8f-9298-7d2e97ae8b6b_d174b513-9e9c-4a65-b.jpg"
-          }
-        }
+        },
+        "finishDate": "2016-09-01"
       },
       {
         "studyType": "selfTraining",
         "degreeAchieved": true,
         "name": "VHDL Course",
         "startDate": "2009-03-01",
-        "finishDate": "2009-03-01",
         "institution": {
           "name": "Centro de Electrónica Industrial - UPM",
           "URL": "http://www.cei.upm.es",
           "image": {
-            "alt": "logo cei.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/7a394693-2c11-466a-85f5-f742c75ad0c7_8e04279d-8675-4522-8.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/7a394693-2c11-466a-85f5-f742c75ad0c7_8e04279d-8675-4522-8.jpg",
+            "alt": "logo cei.jpg"
           }
+        },
+        "finishDate": "2009-03-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master of Engineering (M.Eng.), Industrial Engineering",
-        "startDate": "2004-09-01",
-        "finishDate": "2010-09-01",
-        "institution": {
-          "name": "Universidad Politécnica de Madrid",
-          "description": "Degree grade: 7.6/10Grade: 7.6/10\nMaster's thesis: grade 9.9/10\n\"TinyOS porting to 8051 microcontroller. Applications for digital transducers interfaces and measurement of electric power\"",
-          "URL": "https://www.industriales.upm.es",
-          "image": {
-            "alt": "logo upm.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/55ba9b35-d54e-4c9b-b697-d8d68811e4b2_cde19f41-dc02-41ee-8.jpg"
-          }
+        "skill": {
+          "name": "Capacity for abstract thinking",
+          "type": "practice"
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "English Graduate",
-        "startDate": "1999-09-01",
-        "finishDate": "2004-06-01",
-        "institution": {
-          "name": "Escuela Oficial de Idiomas de Jaén",
-          "description": "Full degree in English in the Offical Language School of Spain, equivalent to a C2 level.",
-          "URL": "http://eoixauen.es",
-          "image": {
-            "alt": "logo eoi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/1fa39cb9-c689-4489-a902-4ac2c7309844_816e584a-6179-4621-b.jpg"
-          }
+        "skill": {
+          "name": "Uncertainty tolerance",
+          "type": "practice"
         }
       }
     ]
@@ -873,8 +971,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/alfonso-martinez-de-la-torre/"
+          "URL": "https://www.linkedin.com/in/alfonso-martinez-de-la-torre/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/AlfVII",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "alfonso_vii@hotmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "674800558",
+          "countryCode": "+34"
         }
       ]
     },
@@ -923,6 +1034,33 @@
         "Software Architect",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like a job where I can solve electronics problems with software.",
+    "goodPractices": "A task is not finished until it is validated. \nDon't implement before preparing the test.\nSolve the problem first in your head, second in the world.\nDo not make other people lose their time.",
+    "projects": [
+      {
+        "name": "AutoPlanar Magnetics"
+      },
+      {
+        "name": "Los Decimos de Ildefonso"
+      },
+      {
+        "name": "Nomo IoT"
+      },
+      {
+        "name": "OpenMagnetics"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "The Ones Who Walk Away from Omelas"
+      },
+      {
+        "name": "Veteran of the Psychic Wars"
+      }
+    ]
   }
 }
