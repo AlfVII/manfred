@@ -93,6 +93,39 @@
       },
       {
         "organization": {
+          "name": "Self-employed "
+        },
+        "roles": [
+          {
+            "name": "Freelancer",
+            "startDate": "2023-04-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Tinybird",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/27/806d44d1-9111-46d1-b740-ab41017fdbfc_1557817797235.jpeg",
