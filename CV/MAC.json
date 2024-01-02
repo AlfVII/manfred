@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -49,6 +49,14 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alfonso-martinez-de-la-torre/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/AlfVII"
+      },
       {
         "type": "other",
         "URL": "https://autoplanar.com"
@@ -491,49 +499,50 @@
       },
       {
         "details": {
-          "name": "Nomo IoT",
-          "description": "After working some years in IoT, I decided to buld my own nodes and apply them to the measurement of water usage in the Spanish fields.\nI designed a compact system of PCB (roughly the size of a 2 euros coin), ordered them, assembled them and tested them satisfactory; including individual layers for communications, power, processing and sensing. \nI also designed my own 3D-printed enclosure, especially designed to let the wires for the sensors get out, while keeping the rain and dirt outside.",
+          "name": "Los Decimos de Ildefonso",
+          "description": "My father is a collectionist of Spanish lottery tickets, mainly in two collections: all the numbers from 00000 to 99999, and one ticket from each official retailer (\"administración de loteria\") in Spain. He had his collection painfully registered on several Word and Excel files, so I decided to make him an online platform where he can track the missing ones, and add new ones with pictures from a webcam.",
+          "URL": "https://losdecimosdeildefonso.com",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/480f3378-d383-4d92-bb5e-f34c47910830_7409e98e-5a6d-44d8-8.png",
-            "alt": "logo nomo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/e56af9a1-6e78-4edc-83aa-0385175ab68a_66fa345f-f3d2-457f-a.png",
+            "alt": "logo decimos.png"
           }
         },
-        "type": "sideProject",
+        "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2016-06-01",
+            "startDate": "2021-11-01",
             "competences": [
               {
-                "name": "C++",
+                "name": "CSS",
                 "type": "technology"
               },
               {
-                "name": "EagleCAD",
+                "name": "Flask",
                 "type": "technology"
               },
               {
-                "name": "FreeRTOS",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "Mechanical Design",
+                "name": "Nginx",
                 "type": "technology"
               },
               {
-                "name": "OpenSCAD",
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
-                "name": "PCB assembly",
+                "name": "Python",
                 "type": "technology"
               },
               {
-                "name": "PCB design",
+                "name": "jQuery",
                 "type": "technology"
               }
             ],
-            "finishDate": "2018-11-01"
+            "finishDate": "2022-01-01"
           }
         ]
       },
@@ -615,50 +624,49 @@
       },
       {
         "details": {
-          "name": "Los Decimos de Ildefonso",
-          "description": "My father is a collectionist of Spanish lottery tickets, mainly in two collections: all the numbers from 00000 to 99999, and one ticket from each official retailer (\"administración de loteria\") in Spain. He had his collection painfully registered on several Word and Excel files, so I decided to make him an online platform where he can track the missing ones, and add new ones with pictures from a webcam.",
-          "URL": "https://losdecimosdeildefonso.com",
+          "name": "Nomo IoT",
+          "description": "After working some years in IoT, I decided to buld my own nodes and apply them to the measurement of water usage in the Spanish fields.\nI designed a compact system of PCB (roughly the size of a 2 euros coin), ordered them, assembled them and tested them satisfactory; including individual layers for communications, power, processing and sensing. \nI also designed my own 3D-printed enclosure, especially designed to let the wires for the sensors get out, while keeping the rain and dirt outside.",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/e56af9a1-6e78-4edc-83aa-0385175ab68a_66fa345f-f3d2-457f-a.png",
-            "alt": "logo decimos.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/480f3378-d383-4d92-bb5e-f34c47910830_7409e98e-5a6d-44d8-8.png",
+            "alt": "logo nomo.png"
           }
         },
-        "type": "openSource",
+        "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2021-11-01",
+            "startDate": "2016-06-01",
             "competences": [
               {
-                "name": "CSS",
+                "name": "C++",
                 "type": "technology"
               },
               {
-                "name": "Flask",
+                "name": "EagleCAD",
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
+                "name": "FreeRTOS",
                 "type": "technology"
               },
               {
-                "name": "Nginx",
+                "name": "Mechanical Design",
                 "type": "technology"
               },
               {
-                "name": "PostgreSQL",
+                "name": "OpenSCAD",
                 "type": "technology"
               },
               {
-                "name": "Python",
+                "name": "PCB assembly",
                 "type": "technology"
               },
               {
-                "name": "jQuery",
+                "name": "PCB design",
                 "type": "technology"
               }
             ],
-            "finishDate": "2022-01-01"
+            "finishDate": "2018-11-01"
           }
         ]
       }
@@ -722,14 +730,17 @@
     "languages": [
       {
         "name": "DE",
+        "fullName": "Alemán",
         "level": "Limited working proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
