@@ -562,7 +562,11 @@
       },
       {
         "details": {
-          "name": "Award “Joven Antiguo Alumno”,  7 th Edition, “Premios Antiguos  Alumnos de la ETSII-UPM”"
+          "name": "Award “Joven Antiguo Alumno”,  7 th Edition, “Premios Antiguos  Alumnos de la ETSII-UPM”",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/04/22/6a1874e5-676c-4102-a3e1-ceb71aeb9c35_cropped-favicon-scal.jpg",
+            "alt": "cropped-FAVICON-scaled-1.jpg"
+          }
         },
         "type": "achievement",
         "publishingDate": "2017-06-01"
