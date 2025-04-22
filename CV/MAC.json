@@ -522,19 +522,6 @@
       },
       {
         "details": {
-          "name": "A Guide To Automating Layout Of Planar Magnetic Designs",
-          "description": "I wrote a guide for how to automatically create a layour for planar magnetics that was published in the well-known Power Electronics magazine How2Power",
-          "URL": "http://www.how2power.com/pdf_view.php?url=/newsletters/2204/H2PowerToday2204_FocusOnMagnetics.pdf",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/ec85b050-3692-44f0-a4da-9aee88f296ec_72df67bf-68dc-4f65-a.jpg",
-            "alt": "logo how2power.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2022-04-01"
-      },
-      {
-        "details": {
           "name": "RAP Session member: Challenges and potential of “AI based design” vs. “conventional design\"",
           "description": "The APEC (Applied Power Electronics Conference) RAP Sessions feature several exciting and contentious topics. RAP Sessions allow for exciting dialogue among attendees and presenters and are presented live during the conference.\nThe past few years have seen a remarkable growth in artificial intelligence in many applications. Power electronics is no exception in that researchers are investigating new ways to model and design power electronics using some form of artificial intelligence. This panel is comprised of several thought leaders in the area of power electronics design – both utilizing AI techniques and without. They will discuss aspects of power electronics design that AI can improve or at least provide keener insight, and where traditional design methods remain superior or necessary. Come join us to open your mind to whether new approaches are worthy of your consideration in your next design. Hearty participation is welcome!",
           "URL": "http://apec-conf.org/conference/sessions/rap/",
