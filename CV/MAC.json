@@ -510,6 +510,18 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "OpenMagnetics: An Online Toolbox for Designing and Simulating Magnetics",
+          "URL": "https://www.ieee-pels.org/magazine/openmagnetics-an-online-toolbox-for-designing-and-simulating-magnetics/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/04/22/441018c6-f8d3-43d6-8561-28cc2bc66c87_magnetics-1024x600.jpg",
+            "alt": "magnetics-1024x600.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-10-01"
+      },
+      {
+        "details": {
           "name": "A Guide To Automating Layout Of Planar Magnetic Designs",
           "description": "I wrote a guide for how to automatically create a layour for planar magnetics that was published in the well-known Power Electronics magazine How2Power",
           "URL": "http://www.how2power.com/pdf_view.php?url=/newsletters/2204/H2PowerToday2204_FocusOnMagnetics.pdf",
