@@ -510,6 +510,18 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Fundamentals of Magnetics",
+          "URL": "https://apec-conf.org/attendees/sessions-seminars/professional-education-seminars/#s13",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/04/22/bc901451-4e7b-4fd6-a6e9-4f2301b54e26_apec-2025-logo.jpg",
+            "alt": "APEC-2025-logo.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2025-03-01"
+      },
+      {
+        "details": {
           "name": "OpenMagnetics: An Online Toolbox for Designing and Simulating Magnetics",
           "URL": "https://www.ieee-pels.org/magazine/openmagnetics-an-online-toolbox-for-designing-and-simulating-magnetics/",
           "image": {
