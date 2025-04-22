@@ -101,39 +101,6 @@
       },
       {
         "organization": {
-          "name": "Self-employed "
-        },
-        "roles": [
-          {
-            "name": "Freelancer",
-            "startDate": "2023-04-01",
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "Fastapi",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Tinybird",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/27/806d44d1-9111-46d1-b740-ab41017fdbfc_1557817797235.jpeg",
@@ -544,19 +511,6 @@
         },
         "type": "talk",
         "publishingDate": "2022-03-01"
-      },
-      {
-        "details": {
-          "name": "[Webinar] A System Perspective for Magnetics Design - Frenetic & SIMBA",
-          "description": "In this video, Simba's team simulates a Dual Activity Bridge and then, its results are uploaded into Frenetic´s platform in order to design a magnetic for the simulated converter, which I presented",
-          "URL": "https://www.youtube.com/watch?v=Fa0N1PZoYZk",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/fd12c8aa-7b59-46df-970d-ee3fb2078b34_1806a778-8a16-46ba-b.png",
-            "alt": "logo simba.png"
-          }
-        },
-        "type": "talk",
-        "publishingDate": "2021-12-01"
       },
       {
         "details": {
