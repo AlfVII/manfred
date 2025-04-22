@@ -698,28 +698,6 @@
         "finishDate": "2010-09-01"
       },
       {
-        "studyType": "selfTraining",
-        "degreeAchieved": true,
-        "name": "PHP Tutorial",
-        "startDate": "2021-09-01",
-        "institution": {
-          "name": "W3School",
-          "description": "PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.\n\nPHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.",
-          "URL": "https://www.w3schools.com/php/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/501de7ff-8ba9-43ec-94b7-892b4a478f2d_289549c2-5107-4918-9.png",
-            "alt": "logo w3school.png"
-          }
-        },
-        "finishDate": "2021-09-01",
-        "linkedCompetences": [
-          {
-            "name": "PHP",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "SystemVerilog for Verification Specialists",
