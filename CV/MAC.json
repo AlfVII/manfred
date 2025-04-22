@@ -188,18 +188,6 @@
             ],
             "competences": [
               {
-                "name": "Ansys Icepak",
-                "type": "technology"
-              },
-              {
-                "name": "Ansys Maxwell",
-                "type": "technology"
-              },
-              {
-                "name": "EM Modeling",
-                "type": "technology"
-              },
-              {
                 "name": "Flask",
                 "type": "technology"
               },
@@ -209,10 +197,6 @@
               },
               {
                 "name": "GitLab",
-                "type": "technology"
-              },
-              {
-                "name": "Magnetics Design",
                 "type": "technology"
               },
               {
@@ -233,10 +217,6 @@
               },
               {
                 "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Power Electronics",
                 "type": "technology"
               },
               {
@@ -280,59 +260,11 @@
                 "type": "technology"
               },
               {
-                "name": "FPGA Intel Arria 10",
-                "type": "technology"
-              },
-              {
-                "name": "FPGA Intel Stratix V",
-                "type": "technology"
-              },
-              {
-                "name": "FPGA Xilinx Virtex-7",
-                "type": "technology"
-              },
-              {
-                "name": "GTKWave",
-                "type": "technology"
-              },
-              {
-                "name": "Intel Quartus II",
-                "type": "technology"
-              },
-              {
                 "name": "Linux",
                 "type": "technology"
               },
               {
                 "name": "PCI",
-                "type": "technology"
-              },
-              {
-                "name": "SignalTap",
-                "type": "technology"
-              },
-              {
-                "name": "SystemVerilog",
-                "type": "technology"
-              },
-              {
-                "name": "UVM",
-                "type": "technology"
-              },
-              {
-                "name": "Verilator",
-                "type": "technology"
-              },
-              {
-                "name": "Xilinx Vivado",
-                "type": "technology"
-              },
-              {
-                "name": "linux-kernel",
-                "type": "technology"
-              },
-              {
-                "name": "vhdl",
                 "type": "technology"
               }
             ]
@@ -362,34 +294,6 @@
               {
                 "name": "C++",
                 "type": "technology"
-              },
-              {
-                "name": "EagleCAD",
-                "type": "technology"
-              },
-              {
-                "name": "FreeRTOS",
-                "type": "technology"
-              },
-              {
-                "name": "OrCAD",
-                "type": "technology"
-              },
-              {
-                "name": "PCB assembly",
-                "type": "technology"
-              },
-              {
-                "name": "PCB design",
-                "type": "technology"
-              },
-              {
-                "name": "TinyOS",
-                "type": "technology"
-              },
-              {
-                "name": "iot",
-                "type": "technology"
               }
             ]
           }
@@ -417,30 +321,6 @@
             "competences": [
               {
                 "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "Keil µVision",
-                "type": "technology"
-              },
-              {
-                "name": "OrCAD",
-                "type": "technology"
-              },
-              {
-                "name": "PCB assembly",
-                "type": "technology"
-              },
-              {
-                "name": "PCB design",
-                "type": "technology"
-              },
-              {
-                "name": "Power Electronics",
-                "type": "technology"
-              },
-              {
-                "name": "iot",
                 "type": "technology"
               }
             ]
@@ -571,14 +451,6 @@
                 "type": "technology"
               },
               {
-                "name": "ElmerFEM",
-                "type": "technology"
-              },
-              {
-                "name": "FE Simulation",
-                "type": "technology"
-              },
-              {
                 "name": "Flask",
                 "type": "technology"
               },
@@ -587,15 +459,7 @@
                 "type": "technology"
               },
               {
-                "name": "Magnetics Design",
-                "type": "technology"
-              },
-              {
                 "name": "Nginx",
-                "type": "technology"
-              },
-              {
-                "name": "PCB design",
                 "type": "technology"
               },
               {
@@ -612,10 +476,6 @@
               },
               {
                 "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "kicad",
                 "type": "technology"
               }
             ]
@@ -639,30 +499,6 @@
             "competences": [
               {
                 "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "EagleCAD",
-                "type": "technology"
-              },
-              {
-                "name": "FreeRTOS",
-                "type": "technology"
-              },
-              {
-                "name": "Mechanical Design",
-                "type": "technology"
-              },
-              {
-                "name": "OpenSCAD",
-                "type": "technology"
-              },
-              {
-                "name": "PCB assembly",
-                "type": "technology"
-              },
-              {
-                "name": "PCB design",
                 "type": "technology"
               }
             ],
@@ -747,19 +583,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Ansys Maxwell",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "EM Modeling",
           "type": "technology"
         }
       },
@@ -783,12 +607,6 @@
       },
       {
         "skill": {
-          "name": "Magnetics Design",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MySQL",
           "type": "technology"
         }
@@ -801,12 +619,6 @@
       },
       {
         "skill": {
-          "name": "PCB design",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Pandas",
           "type": "technology"
         }
@@ -814,12 +626,6 @@
       {
         "skill": {
           "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Electronics",
           "type": "technology"
         }
       },
@@ -838,30 +644,6 @@
       {
         "skill": {
           "name": "SciPy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SystemVerilog",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "fpga",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "iot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "kicad",
           "type": "technology"
         }
       }
@@ -898,28 +680,6 @@
           }
         },
         "finishDate": "2004-06-01"
-      },
-      {
-        "studyType": "selfTraining",
-        "degreeAchieved": true,
-        "name": "HTML Tutorial",
-        "startDate": "2021-09-01",
-        "institution": {
-          "name": "W3School",
-          "description": "HTML is the standard markup language for web pages. Use it to to structure the content on your own website.\n",
-          "URL": "https://www.w3schools.com/html/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/b6cfda37-84ae-48f3-b41e-97d0b1f799a9_778870bb-d1ae-457b-9.png",
-            "alt": "logo w3school.png"
-          }
-        },
-        "finishDate": "2021-09-01",
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
       },
       {
         "studyType": "officialDegree",
