@@ -516,7 +516,11 @@
         "details": {
           "name": " Cache and method",
           "description": "A level-'n' cache and method are disclosed. The level-'n' cache method comprises: in response to a data access request identifying an address of a data block to be accessed, interrogating an address cache of the level-'n' cache arranged to store address portions for a sub-set of data blocks stored in a main cache of the level-'n' cache to determine whether a cache hit occurs within the address cache for the address. In this way, providing the address cache which is separate from the main cache, with the address cache storing address portions relating to data blocks stored in the main cache, the amount of data required to be stored in the address cache is reduced, and decouples the size of the address cache from that of the main cache which enables the address cache to be sized independent of the size of the data blocks stored in the main cache. This provides for a cache of addresses which can be significantly smaller, faster and easily locatable with other components of a data processing apparatus, whilst allowing the data to be stored elsewhere in the main cache which can be larger, slower and more remotely-located from the other components of the data processing apparatus.",
-          "URL": "https://patents.google.com/patent/WO2017134224A1"
+          "URL": "https://patents.google.com/patent/WO2017134224A1",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/05/11/97d8bb63-9c68-4e48-8588-5cc0ec29af12_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2025-05-11 184121.png"
+          }
         },
         "type": "post",
         "publishingDate": "2017-02-01",
