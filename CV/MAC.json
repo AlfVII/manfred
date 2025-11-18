@@ -78,21 +78,22 @@
           {
             "name": "Power Electronics Modeling Specialist ",
             "startDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "I create advanced modelling and simulation tools for all kind of electronics components, with special enphasis on magnetic components, so any Product Manager, FAE or customer can automatically obtain any digital twin of our products, from Ltspice to Ansys."
+              }
+            ],
             "competences": [
               {
-                "name": ".NET",
-                "type": "technology"
-              },
-              {
-                "name": ".Net Core",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
+                "name": "C++",
                 "type": "technology"
               },
               {
                 "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
                 "type": "technology"
               }
             ]
