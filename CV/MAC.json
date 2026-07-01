@@ -811,6 +811,28 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "C++",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would like a job where I can solve electronics problems with software.",
     "goodPractices": "A task is not finished until it is validated. \nDon't implement before preparing the test.\nSolve the problem first in your head, second in the world.\nDo not make other people lose their time.",
     "projects": [
