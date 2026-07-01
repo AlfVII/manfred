@@ -59,7 +59,17 @@
       },
       {
         "type": "other",
-        "URL": "https://autoplanar.com"
+        "URL": "https://openmagnetics.com",
+        "description": "OpenMagnetics"
+      },
+      {
+        "type": "other",
+        "URL": "https://heaviside.openconverters.com"
+      },
+      {
+        "type": "other",
+        "URL": "https://autoplanar.com",
+        "description": "AutoPlanar"
       }
     ]
   },
