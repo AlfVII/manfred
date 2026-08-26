@@ -90,21 +90,7 @@
             "startDate": "2023-06-01",
             "challenges": [
               {
-                "description": "I create advanced modelling and simulation tools for all kind of electronics components, with special enphasis on magnetic components, so any Product Manager, FAE or customer can automatically obtain any digital twin of our products, from Ltspice to Ansys."
-              }
-            ],
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
+                "description": "I build advanced modeling and simulation tools for electronic components, with a focus on magnetic components (transformers, inductors, ferrite cores), enabling Product Managers, Field Application Engineers, and customers to generate accurate digital twins of our products on demand — from LTspice-ready SPICE models to full 3D representations for Ansys and other FEA tools.\n\nDevelop automated pipelines that translate physical component data into simulation-ready models across multiple formats and simulation environments (circuit-level to electromagnetic/thermal FEA).\n\nReduce design-cycle friction by giving internal teams and customers self-service access to component digital twins, eliminating manual model-building bottlenecks.\n\nApply deep magnetics expertise (core loss, winding behavior, thermal characteristics) to ensure simulation models reflect real-world component performance, not just datasheet approximations.\n\nBridge the gap between hardware component data and software tooling, working across electromagnetic, thermal, and finite-element simulation domains."
               }
             ]
           }
