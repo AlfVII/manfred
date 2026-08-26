@@ -124,6 +124,11 @@
             "name": "C++ Engineer",
             "startDate": "2022-09-01",
             "finishDate": "2023-04-01",
+            "challenges": [
+              {
+                "description": "I worked as a C++ engineer, building and debugging core features on top of the ClickHouse database engine, focused on real-time analytics performance and reliability. Worked in a lean team reporting directly to the Founder, owning implementation end-to-end from design through production debugging."
+              }
+            ],
             "competences": [
               {
                 "name": "C++",
